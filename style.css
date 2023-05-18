@@ -9,7 +9,7 @@
 /* general background */
 .nH.aqk.aql.bkL {
   background-color: 
-    var(--arc-palette-foregroundTertiary),
+    var(--arc-palette-cutoutColor) !important;
    /* remove this line to remove grain from gradient */ 
 }
 
