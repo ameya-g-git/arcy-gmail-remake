@@ -8,8 +8,7 @@
 
 /* general background */
 .nH.aqk.aql.bkL {
-  background-color: 
-    var(--arc-palette-cutoutColor) !important;
+  background-color: var(--arc-palette-cutoutColor) !important;
    /* remove this line to remove grain from gradient */ 
 }
 
@@ -103,6 +102,31 @@ span.XU {
   border-radius: 16px 0px 0px 16px;
   background-color: var(--arc-palette-cutoutColor) !important;
   filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.212));
+
+}
+
+.amr .ams.bkH::before, .amr .ams.bkG::before {
+  filter: brightness(0) saturate(100%) !important;
+}
+
+.aau {
+  background-color: var(--arc-palette-foregroundPrimary) !important;
+}
+
+.Yb.bax {
+  background-color: var(--arc-palette-cutoutColor) !important;
+}
+
+.qN .Bn {
+  color: var(--arc-palette-title) !important;
+}
+
+.Th {
+  background-color: var(--arc-palette-cutoutColor) !important;
+}
+
+.qN.qO::before {
+  background-color: var(--arc-palette-focus) !important;
 }
 
 /* header */ 
