@@ -20,17 +20,56 @@
   background-color: transparent;
 }
 
+[role="group"] [aria-label="Send\ ‪\(⌘Enter\)‬"], [role="group"] [aria-label="More\ send\ options"], [style="position\:\ relative\;"] [jscontroller="nwtiKd"] :first-child > [style$=" none"] {
+  background-color: var(--arc-palette-foregroundPrimary) !important;
+}
+
+[style=""] [role="alert"] [role="button"] {
+  filter: brightness(0) saturate(0) !important;
+}
+
 .aef {
   background: transparent;
 }
 
 /* my stuff :3 */
+header {
+  background-color: var(--arc-palette-cutoutColor) !important;
+}
+
+.z0>.L3 {
+  background-color: var(--arc-palette-foregroundPrimary) !important;
+}
+
+span.il  {
+  background: var(--arc-palette-foregroundPrimary) !important;
+}
+
+[data-awr-sg-installed="true"] [style="position\:\ relative\;"] [role="navigation"] [style="user-select\:\ none"] {
+  background-color: var(--arc-palette-foregroundPrimary) !important;
+}
+
+[aria-label="Status\:\ Active"] [jsname] :first-child {
+  background-color: var(--arc-palette-maxContrastColor) !important;
+}
+
 div.qj {
   filter: brightness(0)
   saturate(100%)
   opacity(0.6)
 }
 
+[jsshadow=""] [jsname="ubaLBe"] [aria-pressed="true"] > :nth-child(2) {
+  color: var(--arc-palette-foregroundPrimary) !important;
+}
+
+.TK .ain .TO {
+  background-color: var(--arc-palette-foregroundPrimary) !important;
+}
+
+.WR.aeN, .apV .V6, .apV .V6:focus, .apV .V6:hover{
+  background-color: var(--arc-palette-cutoutColor) !important;
+}
 div.av {
   background-color: var(--arc-palette-focus) !important;
   color: var(--arc-palette-title) !important;
@@ -44,7 +83,7 @@ div.gb_qd {
   background-color: var(--arc-palette-cutoutColor) !important;
 }
 
-.aAA .aJi-aLe .aDG {
+.aAA .aJi-aLe .aDG, .aAA .aKe-aLe .aDG {
   background-color: var(--arc-palette-maxContrastColor) !important;
   color: var(--arc-palette-cutoutColor) !important;
   padding: 0px 6px !important;
